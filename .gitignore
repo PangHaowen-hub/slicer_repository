@@ -9,3 +9,6 @@
 *.pth
 *.log
 *.sql
+/data
+/.idea
+/.ipynb_checkpoints
