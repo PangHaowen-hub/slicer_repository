@@ -6,7 +6,6 @@
 *.npz
 *.gz
 *.npy
-*.pth
 *.log
 *.sql
 /data
