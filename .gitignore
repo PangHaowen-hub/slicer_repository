@@ -7,7 +7,6 @@
 *.gz
 *.npy
 *.log
-*.sql
 /data
 /.idea
 /.ipynb_checkpoints
